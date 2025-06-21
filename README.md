@@ -1,5 +1,5 @@
 # Entertainment Hub
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/krishnaperumalla/Real-Time-Entertainment-Website)
+
 
 Welcome to Entertainment Hub, your ultimate destination for discovering and exploring movies, web series, anime, and popular franchises. This project is a responsive, real-time entertainment website designed to provide a rich and engaging user experience for cinema lovers.
 
